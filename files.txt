@@ -1,1 +1,11 @@
 this:is :ti:inform:you :that: you :parents:called:from:schools
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+you are Fired Peter Griffin!! and  NOt fired simoultaneously!
+=======
+you are Not Fired Peter Griffin!!!
+>>>>>>> 39ca686 (not fired locally)
+thees re tje topiges tmes fo rg griffins 
+
+>>>>>>> Stashed changes
