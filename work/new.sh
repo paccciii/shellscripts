@@ -28,3 +28,4 @@ do
         echo `expr $b \* $i`
 	i=`expr $i + 1`
 done
+## this is to inform that am going to get a job in 20 days
